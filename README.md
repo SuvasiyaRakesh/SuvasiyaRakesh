@@ -48,7 +48,7 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rakeshsuvasiya/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rakesh-suvasiya-023658248/)
 [![Email](https://img.shields.io/badge/-Email-grey?style=flat&logo=gmail)](mailto:suvasiyarakesh72@gmail.com)
 
 ---
