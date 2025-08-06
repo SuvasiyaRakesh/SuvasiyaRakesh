@@ -10,7 +10,6 @@
 - 🔭 I’m currently working on **SmartPrint – JavaFX-based Print Management System**
 - 🌱 Learning: **Spring Boot**, **Elasticsearch**, **System Design**
 - 💬 Ask me about **Java, DSA, MySQL, Git**
-- 👨‍💻 Portfolio: [SuvasiyaRakesh.github.io](https://SuvasiyaRakesh.github.io)
 - 📫 Reach me at: **suvasiyarakesh72@gmail.com**
 
 ---
@@ -43,14 +42,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuvasiyaRakesh&theme=radical" alt="Rakesh Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuvasiyaRakesh&layout=compact&theme=radical" alt="Rakesh Languages" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SuvasiyaRakesh/SuvasiyaRakesh/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
